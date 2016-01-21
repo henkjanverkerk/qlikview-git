@@ -1,0 +1,19 @@
+﻿///$tab Main
+SET ThousandSep='.';
+SET DecimalSep=',';
+SET MoneyThousandSep='.';
+SET MoneyDecimalSep=',';
+SET MoneyFormat='€ #.##0,00;€ -#.##0,00';
+SET TimeFormat='h:mm:ss';
+SET DateFormat='D-M-YYYY';
+SET TimestampFormat='D-M-YYYY h:mm:ss[.fff]';
+SET MonthNames='jan;feb;mrt;apr;mei;jun;jul;aug;sep;okt;nov;dec';
+SET DayNames='ma;di;wo;do;vr;za;zo';
+
+myTable:
+Load * Inline
+[
+	name, age
+	John, 44
+	Chris, 28
+];
