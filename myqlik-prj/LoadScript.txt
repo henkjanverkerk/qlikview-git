@@ -17,3 +17,12 @@ Load * Inline
 	John, 44
 	Chris, 28
 ];
+
+ageAwards:
+Load * Inline
+[
+	age, award
+	27, Winner
+	28, Master
+	29, "Grand Emperor"
+];
