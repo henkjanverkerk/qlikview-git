@@ -1,4 +1,4 @@
-﻿<!-- Last project change: 2016-01-21 11:18:53 (2016-01-21 10:18:53) -->
+﻿<!-- Last project change: 2016-01-21 11:22:44 (2016-01-21 10:22:44) -->
 <PrjQlikViewProject>
   <GLOBAL>
     <AllPropertiesFileName>AllProperties.xml</AllPropertiesFileName>
@@ -17,8 +17,8 @@
         <PrjFrameParentDef>
           <ObjectId>Document\CH01</ObjectId>
           <Rect>
-            <Left>2322</Left>
-            <Top>356</Top>
+            <Left>722</Left>
+            <Top>369</Top>
             <Width>1400</Width>
             <Height>900</Height>
           </Rect>
