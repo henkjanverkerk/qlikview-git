@@ -1,23 +1,6 @@
 ﻿<DocInternals>
-  <AlwaysLoose>
-    <bool>false</bool>
-    <bool>false</bool>
-    <bool>false</bool>
-    <bool>false</bool>
-    <bool>false</bool>
-  </AlwaysLoose>
-  <FieldSrcTables>
-    <String>6</String>
-    <String>1</String>
-    <String>myTable</String>
-    <String>7</String>
-    <String>2</String>
-    <String>myTable</String>
-    <String>ageAwards</String>
-    <String>8</String>
-    <String>1</String>
-    <String>ageAwards</String>
-  </FieldSrcTables>
+  <AlwaysLoose></AlwaysLoose>
+  <FieldSrcTables></FieldSrcTables>
   <TableViewData>
     <Pos></Pos>
     <CtlInfo>
